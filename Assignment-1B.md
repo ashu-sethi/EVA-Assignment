@@ -48,26 +48,47 @@ Layer	--	3	195	x	195	|	3	x	3	Kernel	--	193	x	193
 Layer	--	4	193	x	193	|	3	x	3	Kernel	--	191	x	191
 
 Layer	--	5	191	x	191	|	3	x	3	Kernel	--	189	x	189
+
 Layer	--	6	189	x	189	|	3	x	3	Kernel	--	187	x	187
+
 Layer	--	7	187	x	187	|	3	x	3	Kernel	--	185	x	185
+
 Layer	--	8	185	x	185	|	3	x	3	Kernel	--	183	x	183
+
 Layer	--	9	183	x	183	|	3	x	3	Kernel	--	181	x	181
+
 Layer	--	10	181	x	181	|	3	x	3	Kernel	--	179	x	179
+
 Layer	--	11	179	x	179	|	3	x	3	Kernel	--	177	x	177
+
 Layer	--	12	177	x	177	|	3	x	3	Kernel	--	175	x	175
+
 Layer	--	13	175	x	175	|	3	x	3	Kernel	--	173	x	173
+
 Layer	--	14	173	x	173	|	3	x	3	Kernel	--	171	x	171
+
 Layer	--	15	171	x	171	|	3	x	3	Kernel	--	169	x	169
+
 Layer	--	16	169	x	169	|	3	x	3	Kernel	--	167	x	167
+
 Layer	--	17	167	x	167	|	3	x	3	Kernel	--	165	x	165
+
 Layer	--	18	165	x	165	|	3	x	3	Kernel	--	163	x	163
+
 Layer	--	19	163	x	163	|	3	x	3	Kernel	--	161	x	161
+
 Layer	--	20	161	x	161	|	3	x	3	Kernel	--	159	x	159
+
 Layer	--	21	159	x	159	|	3	x	3	Kernel	--	157	x	157
+
 Layer	--	22	157	x	157	|	3	x	3	Kernel	--	155	x	155
+
 Layer	--	23	155	x	155	|	3	x	3	Kernel	--	153	x	153
+
 Layer	--	24	153	x	153	|	3	x	3	Kernel	--	151	x	151
+
 Layer	--	25	151	x	151	|	3	x	3	Kernel	--	149	x	149
+
 Layer	--	26	149	x	149	|	3	x	3	Kernel	--	147	x	147
 Layer	--	27	147	x	147	|	3	x	3	Kernel	--	145	x	145
 Layer	--	28	145	x	145	|	3	x	3	Kernel	--	143	x	143
