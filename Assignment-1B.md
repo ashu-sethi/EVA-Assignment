@@ -39,12 +39,14 @@ So, If we see how the kernel (i.e. 5x5x3, or flashlight as mention above) moves 
 
 
 
-
-
 Layer	--	1	199	x	199	|	3	x	3	Kernel	--	197	x	197
+
 Layer	--	2	197	x	197	|	3	x	3	Kernel	--	195	x	195
+
 Layer	--	3	195	x	195	|	3	x	3	Kernel	--	193	x	193
+
 Layer	--	4	193	x	193	|	3	x	3	Kernel	--	191	x	191
+
 Layer	--	5	191	x	191	|	3	x	3	Kernel	--	189	x	189
 Layer	--	6	189	x	189	|	3	x	3	Kernel	--	187	x	187
 Layer	--	7	187	x	187	|	3	x	3	Kernel	--	185	x	185
