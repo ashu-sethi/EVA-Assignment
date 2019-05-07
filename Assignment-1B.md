@@ -30,7 +30,7 @@ So, If we see how the kernel (i.e. 5x5x3, or flashlight as mention above) moves 
 ## Why should we only (well mostly) use 3x3 Kernels?
 
  3 x 3 filter is used as a defacto convolution operation in a neural network, because - 
-1. Advantage of using a smaller size filters such as 3 x 3 filter is that, they are faster in terms of computational cost over a 5 x 5 or a 7 x 7. And can significantly reduces the number of features to be learnt in a neural network. For ex : Two 3 x 3 kernels will result in an image size reduction by 4. Which is same as one 5 x 5 layer. But two 3 x 3 kernel will result in 1 weights while a 5 x 5 kernel will result in 25 weights. Therefore a 3 x 3 kernel is  computationally efficient.
+1. Advantage of using a smaller size filters such as 3 x 3 filter is that, they are faster in terms of computational cost over a 5 x 5 or a 7 x 7. And can significantly reduces the number of features to be learnt in a neural network. For ex : Two 3 x 3 kernels will result in an image size reduction by 4. Which is same as one 5 x 5 layer. But two 3 x 3 kernel will result in 9 weights while a 5 x 5 kernel will result in 25 weights. Therefore a 3 x 3 kernel is  computationally efficient.
 2.  With more layers, means network will learns complex and more non-linear features.
 3. 3 x 3 filter is faster then why we don't use smaller even sized (2 x 2) kernel, because they don't produce a centered results.
 4. In an odd-sized filter, all the previous layer pixels would be symmetrically distributed around its output pixel. Without this symmetry, will lead to distortions across the layers which occurs due to using an even sized kernel.
